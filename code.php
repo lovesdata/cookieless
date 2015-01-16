@@ -8,5 +8,5 @@
 <!-- OR this code -->
 
 <?php
-//include_once (dirname (__FILE__) . '/track/single/index.php');
+include_once (dirname (__FILE__) . '/track/single/index.php');
 ?>
